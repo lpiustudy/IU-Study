@@ -5,3 +5,20 @@
 # Python virtual environment and cache
 .venv/
 __pycache__/
+
+# Data and outputs
+data/
+outputs/
+data_test_10/
+data_test_200/
+outputs_old/
+data_test_100/
+outputs_old2/
+old_data/
+old_outputs/
+old_outputs_auto/
+outputs_auto/
+
+# Old Documentation
+SIMPLE_README.md
+old_README.md
